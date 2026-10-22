@@ -1,6 +1,7 @@
 ---
 title: "Design and Development of a Wearable Device Driven by Fuzzy Logic to Monitor Human Balance"
 excerpt: "MSc Project: An MPU6050-based wearable fall detection system running an on-chip Mamdani Fuzzy Logic engine, achieving 90% prediction accuracy."
+date: 2024-01-25
 collection: portfolio
 ---
 
