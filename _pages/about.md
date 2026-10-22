@@ -19,5 +19,5 @@ I am an Electrical and Electronics Engineering graduate holding an MSc from Shef
 * Impact: Delivered high-precision dynamic balancing tracking, helping isolate specific stability markers for biomedical applications.
 
 ---
-*Feel free to browse through the navigation tabs above to view my complete project breakdowns, academic transcripts, or reach out to me directly via the LinkedIn handle in the sidebar panel!*
+*Feel free to browse through the navigation tabs above to view my complete project breakdowns or reach out to me directly via the LinkedIn handle in the sidebar panel!*
 
