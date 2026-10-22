@@ -40,7 +40,6 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 * Participated in site visits and team shadowing to gain practical insights into regulatory processes and environmental compliance, and assisted in data collection and analysis to support sustainability reporting and compliance audits.
 * Gained hands-on experience with software tools used by the Regulated Industries team for issuing and renewing licenses, enhancing understanding of regulatory workflows and compliance management.
 * Authored and published a blog on GOV.UK detailing internship experiences with the Regulated Industries team, highlighting key learning and project involvement.
-* **Publication:** ["Internships with the Regulated Industry Team: Sankari's Story"](https://blog.gov.uk) – Published on the Environment Agency Blog. Documented key internship experiences, insights into regulatory compliance, and sustainable industry practices.
 
 ### **KSEBL** | *Valapad, Kerala, India*
 **Sub Engineer** | *Jan 2022 – August 2022*
@@ -107,7 +106,7 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 
 ## 📜 Courses & Certificates
 
-* **Data Analysis** (Ongoing) — *Future Connect Training: AAT, Accountancy & IT Training UK*
+* **Data Analysis** (2026) — *Future Connect Training: AAT, Accountancy & IT Training UK*
 * **MATLAB Onramp** (2026) — *[MATLAB Online Academy](https://mathworks.com)*
 * **AutoCAD 2D Workshop** (2026) — *[LearnDelta](https://learndelta.com)*
 
