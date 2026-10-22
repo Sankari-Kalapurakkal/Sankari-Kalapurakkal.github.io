@@ -15,7 +15,7 @@ repository               : "Sankari-Kalapurakkal/Sankari-Kalapurakkal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sankari.HEIC"
+  avatar           : "sankari.png"
   name             : "Sankari Kalapurakkal"
   pronouns         : "she/her"  
   bio              : "MSc Graduate in Electrical and Electronic Engineering"
