@@ -95,12 +95,15 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 
 ### **Industrial Automation Project** — *Bottling Station Automation*
 * Automated an industrial bottling station leveraging Siemens TIA Portal and designed a user-friendly HMI interface for operational control.
+* **Technical Skills:** Siemens TIA Portal, PLC Programming, HMI Design, Automation Control Systems.
 
 ### **Modern Electric System Project** — *9-Bus Power System Network Analysis*
 * Conducted comprehensive power system analysis on a 9-bus network, focusing on load flow calculation and fault analysis techniques using DIgSILENT PowerFactory.
+* **Technical Skills:** Power System Analysis, Load Flow Studies, Fault Analysis, DIgSILENT PowerFactory.
 
 ### **Bachelor’s Project** — *Robotic Arm Control Using Flex Sensors*
 * Designed and implemented a functional robotic arm control system utilising flex sensors for intuitive human-machine interaction using Arduino/STM32 platforms.
+* **Technical Skills:** Microcontroller Programming (Arduino/STM32), Sensor Interfacing, Robotics Control Systems, Embedded C.
 
 ---
 
