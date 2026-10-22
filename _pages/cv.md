@@ -7,12 +7,6 @@ redirect_from:
   - /resume
 ---
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
----
 
 # Sankari Kalapurakkal
 **MIET | Electrical and Electronic Engineer**  
