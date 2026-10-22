@@ -3,10 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
 
 # Sankari Kalapurakkal
 **MIET | Electrical and Electronic Engineer**  
@@ -43,7 +40,7 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 * Participated in site visits and team shadowing to gain practical insights into regulatory processes and environmental compliance, and assisted in data collection and analysis to support sustainability reporting and compliance audits.
 * Gained hands-on experience with software tools used by the Regulated Industries team for issuing and renewing licenses, enhancing understanding of regulatory workflows and compliance management.
 * Authored and published a blog on GOV.UK detailing internship experiences with the Regulated Industries team, highlighting key learning and project involvement.
-* **Publication:** ["Internships with the Regulated Industry Team: Sankari's Story"](https://environmentagency.blog.gov.uk/2023/11/27/internships-with-the-regulated-industry-team-sankaris-story/) – Published on the Environment Agency Blog. Documented key internship experiences, insights into regulatory compliance, and sustainable industry practices.
+* **Publication:** ["Internships with the Regulated Industry Team: Sankari's Story"](https://blog.gov.uk) – Published on the Environment Agency Blog. Documented key internship experiences, insights into regulatory compliance, and sustainable industry practices.
 
 ### **KSEBL** | *Valapad, Kerala, India*
 **Sub Engineer** | *Jan 2022 – August 2022*
@@ -55,9 +52,6 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 * Coordinated with local governing bodies and senior officials to streamline project approvals and documentation.
 * Participated in load regularisation and power supply optimisation projects to improve network performance.
 * Conducted joint site inspections with Sub-Engineers and provided basic technical guidance to consumers.
-* Ensured compliance with CEA safety regulations and electrical standards across all field activities.
-* Familiar with basic AutoCAD functions for reviewing and understanding electrical layout drawings.
-* Handled IT equipment diagnostics and network troubleshooting to minimise downtime.
 * Utilised KSEB software tools for project estimations, including Estimate Tools, Outage Management System (OMS), and SCADA/GIS mapping for real-time grid monitoring and analysis.
 
 **Senior Assistant** | *Jun 2020 – Dec 2021*
@@ -70,14 +64,11 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 **Graduate Apprentice** | *Jun 2019 – Jun 2020*
 * Shadowed engineers to gain hands-on experience in technical and administrative operations within the utility sector.
 * Prepared detailed reports and meeting minutes for monthly meetings, while acquiring knowledge of preventive maintenance procedures and consumer demand data entry.
-* Provided administrative support to the Section Officer to streamline office workflows.
-* Familiarised with key KSEBL software systems, including ORUMANET, Customer Care & Issue Tracking (CSC), and MIS Dashboard for performance monitoring and KPI reviews.
 
 ### **KSEBL, 110 kV Substation** | *Valapad, Kerala, India*
 **Graduate Apprentice (Unpaid)** | *Apr 2019 – Jun 2019*
 * Monitored equipment performance, accurately recorded maintenance data, and contributed to maintaining grid stability.
 * Performed fault identification and supported preventive maintenance activities to minimise system downtime.
-* Strictly adhered to safety regulations and site protocols to ensure a secure working environment.
 
 ---
 
@@ -88,16 +79,12 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 * Supported management to maintain a safe working environment in a fast-paced warehouse setting.
 * Conducted regular floor walks as part of safety inspections to identify hazards and near misses.
 * Promoted correct PPE use and safe manual handling techniques among staff.
-* Assisted with risk assessments and safety briefings to support HSE compliance.
 
 ### **Team Manager and Mentor** | *Thrissur District Cricket Association, Thrissur, Kerala, India*
 **Timeline:** 2018 & 2019
 * Contributed as a Women’s Committee member to promote and develop cricket among girls in the Thrissur district.
 * Mentored and coached the junior girls’ U16 cricket team, providing technical training, guidance, and motivation.
 * Managed players’ wellbeing and safety during coaching camps and tournaments, ensuring health, discipline, and positive team spirit.
-* Organised logistics and coordination for tournaments, including travel arrangements, match schedules, and player needs.
-* Assisted in district-level coaching camps (2018–2019), supporting player development and grassroots cricket initiatives.
-* Recognised for leadership, adaptability, and strong communication skills in both on-field and off-field responsibilities.
 
 ---
 
@@ -108,24 +95,21 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 * **Technical Skills:** Embedded Systems, Sensor Integration (Accelerometers), Fuzzy Logic Algorithm Development, Real-Time Data Processing, MATLAB/Simulink.
 
 ### **Industrial Automation Project** — *Bottling Station Automation*
-* Automated a industrial bottling station leveraging Siemens TIA Portal and designed a user-friendly HMI interface for operational control.
-* **Technical Skills:** Siemens TIA Portal, PLC Programming, HMI Design, Automation Control Systems.
+* Automated an industrial bottling station leveraging Siemens TIA Portal and designed a user-friendly HMI interface for operational control.
 
 ### **Modern Electric System Project** — *9-Bus Power System Network Analysis*
-* Conducted comprehensive power system analysis on a 9-bus network, focusing on load flow calculation and fault analysis techniques.
-* **Technical Skills:** Power System Analysis, Load Flow Studies, Fault Analysis, DIgSILENT PowerFactory.
+* Conducted comprehensive power system analysis on a 9-bus network, focusing on load flow calculation and fault analysis techniques using DIgSILENT PowerFactory.
 
 ### **Bachelor’s Project** — *Robotic Arm Control Using Flex Sensors*
-* Designed and implemented a functional robotic arm control system utilising flex sensors for intuitive human-machine interaction.
-* **Technical Skills:** Microcontroller Programming (Arduino/STM32), Sensor Interfacing, Robotics Control Systems, Embedded C.
+* Designed and implemented a functional robotic arm control system utilising flex sensors for intuitive human-machine interaction using Arduino/STM32 platforms.
 
 ---
 
 ## 📜 Courses & Certificates
 
-* **Data Analysis** (2026) — *Future Connect Training: AAT, Accountancy & IT Training UK*
-* **MATLAB Onramp** (2026) — *[MATLAB Online Academy](https://mathworks.com "MATLAB Academy") (mathworks.com)*
-* **AutoCAD 2D Workshop** (2026) — *[LearnDelta](https://www.learndelta.com/ "LearnDelta Official Website")*
+* **Data Analysis** (Ongoing) — *Future Connect Training: AAT, Accountancy & IT Training UK*
+* **MATLAB Onramp** (2026) — *[MATLAB Online Academy](https://mathworks.com)*
+* **AutoCAD 2D Workshop** (2026) — *[LearnDelta](https://learndelta.com)*
 
 ---
 
@@ -134,11 +118,4 @@ Electrical and Electronics Engineer with an MSc from Sheffield Hallam University
 * **Engineering, Data & Simulation Tools:** DIgSILENT PowerFactory, MATLAB/Simulink, Siemens TIA Portal, AutoCAD (Basic), Anaconda, Jupyter Notebook, VS Code, RStudio, MIS Dashboard, OMS, KSEB Estimation Tools, RobotStudio.
 * **Programming, Data & Embedded Systems:** Python, SQL, MySQL, R Programming, Verilog, VHDL, Embedded C (Basic), Sensor Integration, Sensor Calibration, Data Logging, Real-Time Monitoring, HMI/SCADA Design.
 * **Microsoft Office Suite:** MS Excel, MS Word, MS PowerPoint, SharePoint, MS Access, Power BI.
-* **Operating Systems:** Microsoft Windows, Linux (Ubuntu Desktop), Raspberry Pi OS.
-* **FPGA & Microcontroller Platforms:** Intel DE10‑Lite Board, ARM Cortex-M, Arduino (UNO & Nano), Raspberry Pi.
-
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Operating Systems & Platforms:** Microsoft Windows, Linux (Ubuntu), Raspberry Pi OS, Intel DE10‑Lite FPGA, ARM Cortex-M, Arduino (UNO & Nano).
